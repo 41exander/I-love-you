@@ -1,2 +1,2 @@
-# I-love-myself
+# Neural network
 Just do your homework
